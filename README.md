@@ -1,3 +1,3 @@
 # blog
 first repo <br>
-author - ameer khan
+author - ameer khan(msu)
